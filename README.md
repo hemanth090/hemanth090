@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m a proactive Computer Science undergraduate. I’m pa
 
 ### 🌟 About Me
 - 📚 Pursuing **B.Tech in Computer Science** (Graduating in June 2026)
-- 🔍 Exploring opportunities in **software engineering** and **machine learning**
+- 🔍 Exploring opportunities in **software engineering** and **cloud engineering**
 - 🌱 Always learning, with a focus on **algorithms**, **data structures**, and **full-stack development**
 
 
