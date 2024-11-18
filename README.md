@@ -1,7 +1,7 @@
 
 # Hi there, I'm Naveen Hemanth Kokkonda! 👋
 
-**`Tech Enthusiast | Aspiring Software Engineer | B.Tech Computer Science Student`**
+**`Tech Enthusiast | Aspiring Cloud Engineer | B.Tech Computer Science Student`**
 
 Welcome to my GitHub! I’m a proactive Computer Science undergraduate. I’m passionate about software development, machine learning, and creating impactful solutions that make technology more accessible and efficient. Here, you’ll find a collection of my projects and contributions.
 
