@@ -14,14 +14,17 @@ Building scalable AI-powered applications that make a difference
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![AI/ML](https://img.shields.io/badge/-AI/ML-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF6B6B?style=flat-square&logo=OpenAI&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 
 **Languages:** Python • JavaScript • HTML • CSS • SQL  
 **Web Development:** Flask • Streamlit • RESTful APIs • Bootstrap  
 **Data & ML:** NumPy • Pandas • AI Integrations (OpenAI, Groq)  
 **Database:** SQL • MongoDB  
-**Tools:** Git • Docker • AWS(Familiar)
+**Tools:** Git • Docker • AWS
 
 ### 🏆 Achievements
 - **Top 5 placement** in 2 college-level hackathons
@@ -47,6 +50,7 @@ Building scalable AI-powered applications that make a difference
 - 📈 Analyzes 1000+ historical stock prices
 - 📊 Interactive charts with customizable timeframes
 - 🛠️ **Tech:** Python, Streamlit, Yahoo Finance API, Altair
+
 
 ### 🌱 Currently Learning
 - Advanced AI/ML techniques
