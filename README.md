@@ -5,7 +5,7 @@
 Building scalable AI-powered applications that make a difference
 
 ### 🎯 What I've Built
-• **Created resume analyzer** serving 200+ users with 85% accuracy  
+• **Created resume analyzer** serving 100+ users with 85% accuracy  
 • **Engineered multi-model chat interface** reducing dev time by 40%  
 • **Developed market analysis tools** processing 1000+ stock prices  
 
@@ -24,37 +24,21 @@ Building scalable AI-powered applications that make a difference
 **Web Development:** Flask • Streamlit • RESTful APIs • Bootstrap  
 **Data & ML:** NumPy • Pandas • AI Integrations (OpenAI, Groq)  
 **Database:** SQL • MongoDB  
-**Tools:** Git • Docker • AWS(Familiar)
+**Tools:** Git • Docker • AWS
 
 ### 🏆 Achievements
 - **Top 5 placement** in 2 college-level hackathons
 - **MongoDB & Python certified** developer
 - Built applications serving **hundreds of users**
 
-### 🚀 Featured Projects
 
-#### [ATS Resume Analyzer](https://github.com/hemanth090/ats-resume-analyzer) | [🔗 Live Demo](https://ats-v3.onrender.com/)
-> AI-powered resume analysis tool helping job seekers optimize their applications
-- 🎯 Serves 200+ users with 85% accuracy
-- ⚡ Reduces analysis time by 60%
-- 🛠️ **Tech:** Python, Flask, MongoDB, Groq AI, Bootstrap, JavaScript, RESTful APIs, Docker
-
-#### [Multi-Model Chat Interface](https://github.com/hemanth090/multi-model-chat) | [🔗 Live Demo](https://hem-mini-openrouter.streamlit.app/)
-> Unified platform integrating multiple AI providers and 164+ models
-- 🤖 Integrated 10 AI providers and 164 models
-- ⚡ Real-time streaming with 200ms latency
-- 🛠️ **Tech:** Python, Streamlit, OpenAI API, REST Architecture, WebSockets, JSON, CSS3
-
-#### [Market Analysis Web App](https://github.com/hemanth090/market-analysis) | [🔗 Live Demo](https://marketanalysis.streamlit.app/)
-> Interactive stock market analysis and visualization platform
-- 📈 Analyzes 1000+ historical stock prices
-- 📊 Interactive charts with customizable timeframes
-- 🛠️ **Tech:** Python, Streamlit, Yahoo Finance API, Altair
-
+### 📊 GitHub Stats
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanth090&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth090&layout=compact&theme=radical)
 
 ### 🌱 Currently Learning
-- Advanced AI/ML techniques
-- Cloud deployment strategies
+- Cloud technologies (AWS, Azure)
+- DevOps practices & CI/CD pipelines
 - Microservices architecture
 
 ### 📫 Let's Connect!
