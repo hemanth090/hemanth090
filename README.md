@@ -32,10 +32,6 @@ Building scalable AI-powered applications that make a difference
 - Built applications serving **hundreds of users**
 
 
-### 📊 GitHub Stats
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemanth090&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth090&layout=compact&theme=radical)
-
 ### 🌱 Currently Learning
 - Cloud technologies (AWS, Azure)
 - DevOps practices & CI/CD pipelines
