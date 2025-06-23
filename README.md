@@ -24,7 +24,7 @@ Building scalable AI-powered applications that make a difference
 **Web Development:** Flask • Streamlit • RESTful APIs • Bootstrap  
 **Data & ML:** NumPy • Pandas • AI Integrations (OpenAI, Groq)  
 **Database:** SQL • MongoDB  
-**Tools:** Git • Docker • AWS
+**Tools:** Git • Docker • AWS(Familiar)
 
 ### 🏆 Achievements
 - **Top 5 placement** in 2 college-level hackathons
