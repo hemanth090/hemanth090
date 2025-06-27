@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Naveen Hemanth
 
-## 🚀 Full-Stack Developer | AI Enthusiast | CSE Student @ Sreyas Institute
+## 🚀 Full-Stack Developer | AI Enthusiast | CSE Student (Data Science) @ Sreyas Institute
 
 Building scalable AI-powered applications that make a difference
 
