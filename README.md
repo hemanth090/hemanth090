@@ -35,7 +35,7 @@ I'm a **pre-final year Computer Science undergraduate** specializing in **Data S
 
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -64,7 +64,7 @@ I'm a **pre-final year Computer Science undergraduate** specializing in **Data S
 
 ### 💰 Expense Tracker
 **Real-Time Personal Finance Management** _(January 2024)_
-- **Built with:** React 18, Supabase, PostgreSQL, Material-UI, Recharts, XLSX
+- **Built with:** React 18, Supabase, SQL, Material-UI, Recharts, XLSX
 - 🔐 Secure authentication with **Row Level Security (RLS)**
 - 📈 Comprehensive analytics with multiple chart types
 - 📱 **Responsive design** with dark/light mode support
@@ -82,6 +82,7 @@ I'm a **pre-final year Computer Science undergraduate** specializing in **Data S
 - 🔄 Learning **CI/CD pipelines** and **DevOps best practices**
 - ☁️ Exploring **AWS Cloud Services** and **infrastructure automation**
 - 🚀 Building more **AI-integrated applications** with cutting-edge models
+- 📱 Developing **mobile-first responsive web applications**
 - 🛠️ Implementing **containerization** and **deployment strategies**
 
 ## 🤝 Let's Connect!
