@@ -46,7 +46,7 @@ I'm a **pre-final year Computer Science undergraduate** specializing in **Data S
 ## 🌟 Featured Projects
 
 ### 🧠 Smart Notes Organizer 
-**Full-Stack MERN App with AI Integration** _(June 2024)_
+**Full-Stack MERN App with AI Integration** _(June 2025)_
 - **Built with:** React 18, Node.js, Express.js, MongoDB, Tesseract.js, Groq AI, Tailwind CSS
 - 📝 Automated note-taking with **OCR technology** (95% accuracy)
 - 🤖 **AI-powered content structuring** using Groq Llama3-70B model
@@ -54,7 +54,7 @@ I'm a **pre-final year Computer Science undergraduate** specializing in **Data S
 - ✨ Interactive drag-and-drop interface boosting engagement by **45%**
 
 ### 📄 ATS Resume Analyzer
-**LLM-Powered Resume Analysis Tool** _(March 2024)_
+**LLM-Powered Resume Analysis Tool** _(March 2025)_
 - **Built with:** Python, Flask, MongoDB, Groq AI, Docker, REST APIs
 - 👥 Used by **100+ users** for resume scoring and skill-matching
 - ⚡ **60% faster** analysis time with optimized backend
@@ -62,7 +62,7 @@ I'm a **pre-final year Computer Science undergraduate** specializing in **Data S
 - 🏆 Achieved **85% accuracy** in resume scoring and feedback
 
 ### 💰 Expense Tracker
-**Real-Time Personal Finance Management** _(January 2024)_
+**Real-Time Personal Finance Management** _(January 2025)_
 - **Built with:** React 18, Supabase, SQL, Material-UI, Recharts, XLSX
 - 🔐 Secure authentication with **Row Level Security (RLS)**
 - 📈 Comprehensive analytics with multiple chart types
