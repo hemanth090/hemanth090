@@ -81,7 +81,6 @@ I'm a **pre-final year Computer Science undergraduate** specializing in **Data S
 - 🔄 Learning **CI/CD pipelines** and **DevOps best practices**
 - ☁️ Exploring **AWS Cloud Services** and **infrastructure automation**
 - 🚀 Building more **AI-integrated applications** with cutting-edge models
-- 📱 Developing **mobile-first responsive web applications**
 - 🛠️ Implementing **containerization** and **deployment strategies**
 
 ## 🤝 Let's Connect!
