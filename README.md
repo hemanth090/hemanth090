@@ -1,95 +1,98 @@
-# Hi there, I'm Naveen Hemanth Kokkonda! 👋
+# 👋 Hi, I'm Naveen Hemanth Kokkonda
 
 ## 🚀 About Me
 
-I'm a **pre-final year Computer Science undergraduate** specializing in **Data Science** at Sreyas Institute of Engineering and Technology, Hyderabad. I'm passionate about building **AI-integrated** and **full-stack web applications** that solve real-world problems using data-driven approaches.
+I'm a **Computer Science undergrad** specializing in **Data Science** at Sreyas Institute of Engineering and Technology, Hyderabad. I enjoy solving real-world problems by building **AI-integrated** and **full-stack web applications** with a focus on clean design and scalability.
 
-- 🌱 Currently learning **CI/CD pipelines**, **DevOps practices**, and **Cloud Technologies**
-- 💼 Experienced in building scalable solutions with modern frameworks
-- 🏆 **Top 5 finisher** in two inter-college hackathons
+- 🌱 Currently diving into **DevOps**, **CI/CD**, and **Cloud Engineering**
+- 🧠 Passionate about **LLM-based automation** and intelligent systems
+- 💼 Built and deployed **3+ production-ready apps** with user-focused features
+- 🏆 Achieved **Top 5 positions** in multiple inter-college hackathons
 - 📍 Based in Hyderabad, India
-- 📫 Reach me at: **naveenhemanth4@gmail.com**
+- 📫 Reach me: **naveenhemanth4@gmail.com**
 
-## 🛠️ Tech Stack
+---
 
-### Languages
+## 🛠 Tech Stack
+
+### 👨‍💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Web Development
+### 🌐 Web Development  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Data & AI
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 📊 Data & AI  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Tesseract.js](https://img.shields.io/badge/Tesseract.js-178DFF?style=for-the-badge&logo=tesseract&logoColor=white)
 
-### Databases & Cloud
+### ☁️ Databases & Cloud  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Tools & DevOps
+### 🛠 Tools & DevOps  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
+---
+
 ## 🌟 Featured Projects
 
-### 🧠 Smart Notes Organizer 
-**Full-Stack MERN App with AI Integration** _(June 2025)_
-- **Built with:** React 18, Node.js, Express.js, MongoDB, Tesseract.js, Groq AI, Tailwind CSS
-- 📝 Automated note-taking with **OCR technology** (95% accuracy)
-- 🤖 **AI-powered content structuring** using Groq Llama3-70B model
-- 🎯 **60% reduction** in manual note-taking time
-- ✨ Interactive drag-and-drop interface boosting engagement by **45%**
+### 🧠 Smart Notes Organizer  
+**AI-Enhanced MERN Application** | _June 2025_  
+🔹 Built with: React 18, Node.js, MongoDB, Express, Groq AI, Tailwind, Tesseract.js  
+🔹 Features: OCR-based note capture, drag-and-drop UI, AI-powered content structuring  
+🔹 Outcomes: 95% OCR accuracy, 60% time saved on manual note-taking
 
-### 📄 ATS Resume Analyzer
-**LLM-Powered Resume Analysis Tool** _(March 2025)_
-- **Built with:** Python, Flask, MongoDB, Groq AI, Docker, REST APIs
-- 👥 Used by **100+ users** for resume scoring and skill-matching
-- ⚡ **60% faster** analysis time with optimized backend
-- 📊 Interactive skill-gap dashboard increasing engagement by **40%**
-- 🏆 Achieved **85% accuracy** in resume scoring and feedback
+### 📄 ATS Resume Analyzer  
+**LLM-Powered Resume Tool** | _March 2025_  
+🔹 Built with: Flask, MongoDB, Docker, OpenAI/Groq API  
+🔹 Features: Resume parsing, scoring, and interactive skill-gap dashboards  
+🔹 Outcomes: Used by 100+ users; 85% scoring accuracy; 40% engagement boost
 
-### 💰 Expense Tracker
-**Real-Time Personal Finance Management** _(January 2025)_
-- **Built with:** React 18, Supabase, SQL, Material-UI, Recharts, XLSX
-- 🔐 Secure authentication with **Row Level Security (RLS)**
-- 📈 Comprehensive analytics with multiple chart types
-- 📱 **Responsive design** with dark/light mode support
-- 📊 Excel export functionality for data portability
-
-## 🏅 Achievements & Certifications
-
-- 🥇 **Top 5 Rank** in two inter-college hackathons (48-hour development challenges)
-- 🎓 **Front End Development Certificate** - Simplilearn (June 2024)
-- 🐍 **Python Programming Certificate** - Infosys Springboard (September 2024)
-- 🍃 **MongoDB Python Developer Path** - MongoDB University (January 2024)
-
-## 📈 What I'm Working On
-
-- 🔄 Learning **CI/CD pipelines** and **DevOps best practices**
-- ☁️ Exploring **AWS Cloud Services** and **infrastructure automation**
-- 🚀 Building more **AI-integrated applications** with cutting-edge models
-- 🛠️ Implementing **containerization** and **deployment strategies**
-
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanthkokkonda)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenhemanth4@gmail.com)
+### 💰 Expense Tracker  
+**Real-Time Finance Management App** | _Jan 2025_  
+🔹 Built with: React, Supabase, Material-UI, Recharts  
+🔹 Features: Secure RLS authentication, dark/light mode, Excel export  
+🔹 Outcomes: Fast analytics dashboard and mobile responsiveness
 
 ---
 
-💡 **"Building scalable solutions with data-driven approaches to solve real-world problems"**
+## 🏆 Achievements & Certifications
 
-⭐ **Feel free to explore my repositories and reach out for collaboration opportunities!**
+- 🏅 **Front-End Dev Certification** – Simplilearn (June 2024)
+- 🐍 **Python Programming** – Infosys Springboard (Sep 2024)
+- 🍃 **MongoDB Python Path** – MongoDB University (Jan 2024)
+
+---
+
+## 🔭 Currently Working On
+
+- ⚙️ CI/CD Pipelines (GitHub Actions, Docker, Render)
+- ☁️ AWS Services & infrastructure automation
+- 🤖 LLM-integrated smart apps (Groq, OpenAI APIs)
+- 📦 DevOps workflows and containerized deployments
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanthkokkonda)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenhemanth4@gmail.com)
+
+---
+
+> 💡 _"Building scalable, intelligent systems that turn ideas into impact."_  
+> ⭐ _Feel free to check out my repositories and collaborate!_
+
