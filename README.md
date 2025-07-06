@@ -94,9 +94,6 @@ Resume optimization tool with skill-to-job-description matching achieving 85% ac
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanthkokkonda/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemanth090)
 
-📍 **Location:** Hyderabad, India  
-📞 **Phone:** +91 6300296968  
-🎓 **Available:** June 2026
 
 ## 💡 Fun Fact
 
