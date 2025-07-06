@@ -1,97 +1,231 @@
-# 👋 Hi, I'm Naveen Hemanth Kokkonda
+<div align="center">
+
+# Hi, I'm Hemanth 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Building+Solutions+That+Matter;Open+to+New+Opportunities" alt="Typing SVG" />
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00D9FF?style=for-the-badge)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge)](mailto:your-email@gmail.com)
+
+</div>
+
+---
 
 ## 🚀 About Me
 
-I'm a **Computer Science undergrad** specializing in **Data Science** at Sreyas Institute of Engineering and Technology, Hyderabad. I enjoy solving real-world problems by building **AI-integrated** and **full-stack web applications** with a focus on clean design and scalability.
+**Full Stack Developer** specializing in **AI-powered web applications** with 3+ years of experience building scalable, user-centric solutions.
 
-- 🌱 Currently diving into **DevOps**, **CI/CD**, and **Cloud Engineering**
-- 🧠 Passionate about **LLM-based automation** and intelligent systems
-- 💼 Built and deployed **3+ production-ready apps** with user-focused features
-- 🏆 Achieved **Top 5 positions** in multiple inter-college hackathons
-- 📍 Based in Hyderabad, India
-- 📫 Reach me: **naveenhemanth4@gmail.com**
+```javascript
+const hemanth = {
+    location: "India",
+    currentFocus: "AI Integration & Full Stack Development",
+    availableFor: "Full-time opportunities & exciting projects",
+    expertise: ["React", "Node.js", "AI/ML", "System Design"],
+    currentProject: "LegalEase - AI Legal Document Simplifier",
+    learning: ["Advanced AI/ML", "Cloud Architecture", "DevOps"]
+};
+```
+
+**🎯 What I Do:**
+- Build **full-stack applications** that solve real-world problems
+- Integrate **AI/ML technologies** into web applications
+- Create **scalable, maintainable** code with modern best practices
+- Design **user-centric interfaces** with excellent UX
 
 ---
 
-## 🛠 Tech Stack
+## 💼 Featured Projects
 
-### 👨‍💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<table>
+<tr>
+<td width="50%">
+
+### 🏛️ [LegalEase](https://legalease-frontend.onrender.com)
+**AI-Powered Legal Document Simplifier**
+
+🔥 **Live Demo Available**
+
+**Impact:** Democratizes legal document understanding
+- 🤖 **AI Integration:** Groq API for document analysis
+- 🌍 **Global Reach:** 80+ language support
+- 📄 **Multi-format:** PDF, DOCX, image processing with OCR
+- 🔒 **Privacy-first:** Memory-only processing
+- ⚡ **Real-time:** Live processing updates
+
+**Tech:** React 18, Node.js, Express, Groq AI, Tesseract.js, Tailwind CSS
+
+[![Live Demo](https://img.shields.io/badge/��_Live_Demo-Visit-success?style=flat-square)](https://legalease-frontend.onrender.com)
+[![Source Code](https://img.shields.io/badge/📂_Code-GitHub-black?style=flat-square)](https://github.com/yourusername/LegalStick)
+
+</td>
+<td width="50%">
+
+### 🚀 [Project Name 2]
+**Brief Description**
+
+**Key Features:**
+- Feature 1
+- Feature 2
+- Feature 3
+
+**Tech Stack:** Technologies used
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit-success?style=flat-square)](#)
+[![Source Code](https://img.shields.io/badge/📂_Code-GitHub-black?style=flat-square)](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🌐 Web Development  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 📊 Data & AI  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### **AI & Machine Learning**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Tesseract.js](https://img.shields.io/badge/Tesseract.js-178DFF?style=for-the-badge&logo=tesseract&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logo=groq&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
 
-### ☁️ Databases & Cloud  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🛠 Tools & DevOps  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### **Database & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
----
-
-## 🌟 Featured Projects
-
-### 🧠 Smart Notes Organizer  
-**AI-Enhanced MERN Application** | _June 2025_  
-🔹 Built with: React 18, Node.js, MongoDB, Express, Groq AI, Tailwind, Tesseract.js  
-🔹 Features: OCR-based note capture, drag-and-drop UI, AI-powered content structuring  
-🔹 Outcomes: 95% OCR accuracy, 60% time saved on manual note-taking
-
-### 📄 ATS Resume Analyzer  
-**LLM-Powered Resume Tool** | _March 2025_  
-🔹 Built with: Flask, MongoDB, Docker, OpenAI/Groq API  
-🔹 Features: Resume parsing, scoring, and interactive skill-gap dashboards  
-🔹 Outcomes: Used by 100+ users; 85% scoring accuracy; 40% engagement boost
-
-### 💰 Expense Tracker  
-**Real-Time Finance Management App** | _Jan 2025_  
-🔹 Built with: React, Supabase, Material-UI, Recharts  
-🔹 Features: Secure RLS authentication, dark/light mode, Excel export  
-🔹 Outcomes: Fast analytics dashboard and mobile responsiveness
+</div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 📊 GitHub Analytics
 
-- 🏅 **Front-End Dev Certification** – Simplilearn (June 2024)
-- 🐍 **Python Programming** – Infosys Springboard (Sep 2024)
-- 🍃 **MongoDB Python Path** – MongoDB University (Jan 2024)
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hemanth090&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth090&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth090&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
+</div>
 
 ---
 
-## 🔭 Currently Learning
+## 🏆 Achievements & Metrics
 
-- ⚙️ CI/CD Pipelines (GitHub Actions, Docker, Render)
-- ☁️ AWS Services & infrastructure automation
-- 📦 DevOps workflows and containerized deployments
+<div align="center">
+
+| 🎯 **Focus Areas** | 📈 **Experience** | 🚀 **Specialization** |
+|:------------------:|:-----------------:|:----------------------:|
+| Full Stack Development | 3+ Years | AI Integration |
+| React Ecosystem | Advanced | Modern Web Apps |
+| Node.js Backend | Proficient | RESTful APIs |
+| AI/ML Integration | Intermediate | Document Processing |
+
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hemanth090&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 💡 What I'm Working On
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanthkokkonda)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenhemanth4@gmail.com)
+```yaml
+Current Projects:
+  - name: "LegalEase"
+    status: "Production Ready"
+    tech: ["React", "Node.js", "Groq AI"]
+    impact: "Democratizing legal document understanding"
+  
+  - name: "AI-Powered Analytics Dashboard"
+    status: "In Development"
+    tech: ["Next.js", "Python", "TensorFlow"]
+    focus: "Real-time data visualization"
+
+Learning Goals 2024:
+  - Advanced System Design
+  - Microservices Architecture
+  - Cloud-Native Development
+  - Advanced AI/ML Techniques
+```
 
 ---
 
-> 💡 _"Building scalable, intelligent systems that turn ideas into impact."_  
-> ⭐ _Feel free to check out my repositories and collaborate!_
+## 🤝 Let's Connect & Collaborate
 
+<div align="center">
+
+**Open to opportunities in:**
+- Full Stack Development roles
+- AI/ML Engineering positions
+- Innovative startup environments
+- Remote-first companies
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
+<br><strong>LinkedIn</strong>
+<br><a href="https://linkedin.com/in/your-linkedin">Professional Network</a>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/>
+<br><strong>Email</strong>
+<br><a href="mailto:your-email@gmail.com">Direct Contact</a>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>
+<br><strong>Portfolio</strong>
+<br><a href="https://your-portfolio.com">View Projects</a>
+</td>
+<td align="center">
+<img src="https://img.icons8.com/color/48/000000/resume.png" width="40"/>
+<br><strong>Resume</strong>
+<br><a href="https://your-resume-link.com">Download PDF</a>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=hemanth090&label=Profile%20Views&color=00D9FF&style=flat)
+
+**"Building the future, one line of code at a time"**
+
+⭐ **Available for new opportunities** | 🚀 **Let's build something amazing together**
+
+</div>
