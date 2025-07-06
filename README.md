@@ -77,11 +77,10 @@ I'm a **Computer Science undergrad** specializing in **Data Science** at Sreyas 
 
 ---
 
-## 🔭 Currently Working On
+## 🔭 Currently Learning
 
 - ⚙️ CI/CD Pipelines (GitHub Actions, Docker, Render)
 - ☁️ AWS Services & infrastructure automation
-- 🤖 LLM-integrated smart apps (Groq, OpenAI APIs)
 - 📦 DevOps workflows and containerized deployments
 
 ---
