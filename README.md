@@ -4,7 +4,7 @@
 
 I'm a final-year Computer Science student at Sreyas Institute of Engineering and Technology, graduating in June 2026. I specialize in building AI-integrated full-stack applications that solve real-world problems. My projects have reached 100+ users with 85% accuracy rates, focusing on practical tools that make complex tasks simpler.
 
-I enjoy combining modern web technologies with AI to create applications that genuinely help people—from simplifying legal documents to organizing handwritten notes. Currently seeking software engineering opportunities starting June 2026.
+I enjoy combining modern web technologies with AI to create applications that genuinely help people—from simplifying legal documents to organizing handwritten notes. Currently seeking software engineering opportunities.
 
 ## 🛠️ Tech Stack
 
