@@ -1,139 +1,112 @@
-<!-- Header with animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Naveen%20Hemanth%20Kokkonda&fontSize=40&fontAlignY=35&animation=twinkling&desc=AI%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55"/>
-</div>
+# Naveen Hemanth Kokkonda
 
-<!-- Typing SVG -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+a+CS+Student+(Class+of+2026);I+love+building+AI-powered+Full-Stack+Apps;Always+learning+Cloud+%7C+DevOps+%7C+Microservices"/>
-</div>
+**Computer Science Student(Data Science)** | **AI & Full-Stack Developer**  
+Sreyas Institute of Engineering and Technology | Class of 2026
+
+[Portfolio](https://hemanthk.dev) • [Email](mailto:naveenhemanth4@gmail.com) • [LinkedIn](https://www.linkedin.com/in/hemanthkokkonda/)
 
 ---
 
-## 👨‍💻 About Me  
+## About
 
-I’m a final-year Computer Science student at **Sreyas Institute of Engineering and Technology (2026)**.  
+I'm a final-year Computer Science student specializing in Data Science. I build full-stack applications that integrate AI to solve real problems—from simplifying legal documents to organizing handwritten notes and matching resumes with job descriptions.
 
-I enjoy mixing **AI + modern web tech** to build tools that *make life simpler*.  
-So far, I’ve built apps that:  
-- Simplify **legal documents** 🏛️  
-- Organize **handwritten notes** 📝  
-- Match **resumes with job descriptions** 📊  
+Currently exploring cloud architecture, DevOps practices, and microservices while seeking software engineering opportunities.
 
-Right now, I’m exploring **cloud, DevOps, and microservices** while looking for **software engineering opportunities**.  
-
-🌐 Check out my **portfolio** → [hemanthk.dev](https://hemanthk.dev)  
+**Core competencies:** Full-stack development, AI/ML integration, REST API design, cloud deployment
 
 ---
 
-## 🛠️ Tech Stack  
+## Technical Skills
 
-<div align="center">
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**AI & Data**  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
+**Languages:** Python, JavaScript, SQL  
+**Frontend:** React, HTML, CSS, TailwindCSS, Bootstrap  
+**Backend:** Node.js, Express.js, Flask, Streamlit  
+**AI/ML:** LangChain, Groq, OpenAI APIs, FAISS, Sentence Transformers  
+**Data:** NumPy, Pandas, PyPDF2  
+**Databases:** MongoDB, PostgreSQL, Supabase  
+**Tools:** Git, Docker, AWS, Render
 
 ---
 
-## 🚀 Featured Projects  
+## Projects
 
-### 🏛️ [LegalEase](https://legalease-frontend-ihrt.onrender.com/)  
-**What:** An AI-powered assistant for legal documents.  
-**What it does:** Simplifies complex legal text into plain language across **75+ languages**, reducing jargon and boosting accessibility.  
-**Why it matters:** Improved comprehension **3× faster**, reduced upload failures by **90%**, and cut latency to **1.8s**.  
+### [LegalEase](https://github.com/hemanth090/legalease) • [Live Demo](https://legalease-frontend-ihrt.onrender.com/)
+AI-powered legal document simplification platform supporting 75+ languages
 
----
+- Built with React, Node.js, Express.js, and Groq AI
+- Processes PDFs, DOCX, and images with 95%+ accuracy
+- Privacy-first architecture with in-memory processing
+- Delivers structured legal analysis with key parties, obligations, and recommendations
 
-### 📝 [Smart Notes Organizer](https://smart-note-organizer-1.onrender.com/)  
-**What:** An intelligent tool for students to organize handwritten notes.  
-**What it does:** Extracts text from handwritten notes and generates **95% accurate summaries**.  
-**Why it matters:** Saves **60% typing time** and improves note organization efficiency by **40%**.  
+### [Knora AI](https://github.com/hemanth090/knora-ai) • [Live Demo](https://knora-ai.streamlit.app/)
+Retrieval-Augmented Generation (RAG) system for intelligent document querying
 
----
+- Python, Streamlit, FAISS vector database
+- Supports 9 document types (PDF, DOCX, Excel, CSV, TXT)
+- Achieves 90% relevance score using sentence-transformer embeddings
+- Integrated with multiple Groq LLM models (LLaMA 3.1, Mixtral)
 
-### 📊 [ATS Resume Analyzer](https://ats-v3.onrender.com/)  
-**What:** A resume–job description matcher with analytics.  
-**What it does:** Compares resumes against job postings with **85% accuracy**, providing an interactive skill-gap dashboard (D3.js).  
-**Why it matters:** Helps job-seekers optimize resumes, with **Dockerized deployment** ensuring **99.9% uptime**.  
+### [Smart Notes Organizer](https://github.com/hemanth090/smart-notes) • [Live Demo](https://smart-note-organizer-1.onrender.com/)
+Handwritten note extraction and organization tool
 
----
+- OCR-powered text extraction with 95% accuracy
+- AI-generated summaries and automatic categorization
+- Saves 60% of manual typing time
 
+### [ATS Resume Analyzer](https://github.com/hemanth090/ats-v3) • [Live Demo](https://ats-v3.onrender.com/)
+Resume-job description matching system with analytics dashboard
 
-## ​ Achievements & Certifications  
-
-- **Top 5 Finisher** — Inter-college Hackathons (48-hour sprints)  
-- **Certifications:**  
-  - Simplilearn: *Frontend Development* (2025)  
-  - Infosys Springboard: *Python Programming* (2024)  
-  - MongoDB University: *Python Developer Path* (2024)  
-  - Oracle Cloud Infrastructure **2025 Certified Generative AI Professional** (Issued Aug 19, 2025; valid until Aug 19, 2027)  
-    - Demonstrates strong grasp of LLMs, **OCI Generative AI Service**, Retrieval-Augmented Generation, Semantic Search, Vector DBs, and LangChain  
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemanth090&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth090&layout=compact&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth090&theme=radical&hide_border=true"/>
-</div>
+- Flask backend with Groq AI integration
+- 85% accuracy in compatibility scoring
+- Interactive skill-gap visualization using D3.js
+- MongoDB for historical analysis storage
+- Deployed with Gunicorn for production scalability
 
 ---
 
-## 🌱 Currently Learning  
+## Experience & Recognition
 
-- ☁️ Cloud (AWS & Azure)  
-- ⚙️ DevOps & CI/CD  
-- 🧩 Microservices  
+**Hackathons**
+- Top 5 finish in two inter-college hackathons
+- Built functional prototypes within 48-hour constraints
 
----
-
-## 📫 Connect With Me  
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hemanthk.dev)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenhemanth4@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanthkokkonda/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemanth090)  
-
-</div>
+**Project Metrics**
+- 200+ users across deployed applications
+- 1,000+ documents processed through LegalEase
+- 70% reduction in initial resume screening time
 
 ---
 
-## 💡 Fun Fact  
+## Certifications
 
-✨ I don’t aim for “perfect code” — I aim for **useful code**.  
-If my project saves someone time or makes their day easier, I consider it a win.  
+- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** (Aug 2025)
+- Simplilearn: Frontend Development - HTML, CSS, JavaScript (Jun 2025)
+- MongoDB University: Python Developer Path (Jan 2024)
 
 ---
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</div>
+## Currently Learning
+
+- Cloud architecture (AWS, Azure)
+- DevOps & CI/CD pipelines
+- Microservices architecture
+- Container orchestration (Docker, Kubernetes)
+
+---
+
+## GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth090&layout=compact&theme=default)
+
+---
+
+## Contact
+
+**Email:** naveenhemanth4@gmail.com  
+**Location:** Hyderabad, India  
+**Open to:** Full-time opportunities, internships, and collaborations
+
+---
+
+*Last updated: October 2025*
